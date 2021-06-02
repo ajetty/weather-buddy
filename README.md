@@ -1,4 +1,4 @@
-![Picture](https://github.com/bhern154/bhern154.github.io/blob/master/banner.jpg)
+![Picture](https://ajetty.github.io/Weather_Buddy_Readme_Pics/banner.jpg)
 
 # Weather Buddy Android App
 
@@ -36,8 +36,8 @@ What we used for our app:
 
 ### The Character Design:
 <div>
-<img src="https://github.com/bhern154/bhern154.github.io/blob/master/bear_logo.png" width="30%" style="float: left">
-<img src="https://github.com/bhern154/bhern154.github.io/blob/master/buddy_logo_umbrella.png" width="40%" style="float: left">
+<img src="https://ajetty.github.io/Weather_Buddy_Readme_Pics/bear_logo.png" width="30%" style="float: left">
+<img src="https://ajetty.github.io/Weather_Buddy_Readme_Pics/buddy_logo_umbrella.png" width="40%" style="float: left">
 </div>
 
 <br>
@@ -53,7 +53,7 @@ I did not have time to animate the character
 
 ### App Design:
 
-<img src="https://github.com/bhern154/bhern154.github.io/blob/master/app_design.png" width="40%">
+<img src="https://ajetty.github.io/Weather_Buddy_Readme_Pics/app_design.png" width="40%">
 <br/>
 Information displayed from API:
 
@@ -67,13 +67,13 @@ It has a textClock to display the clock in real time.
 
 ### The Wallpapers for Day-Times:
 
-<img src="https://github.com/bhern154/bhern154.github.io/blob/master/8_bit_day.png" width="80%">
+<img src="https://ajetty.github.io/Weather_Buddy_Readme_Pics/8_bit_day.png" width="80%">
 <br>
 These 8 images change depending on the time of the day. 
 <br>
 
 ### Icons:
-<img src="https://github.com/bhern154/bhern154.github.io/blob/master/weather_icons.png" width="80%">
+<img src="https://ajetty.github.io/Weather_Buddy_Readme_Pics/weather_icons.png" width="80%">
 <br>
 The weather icons should change depending on the weather condition returned by the API. 
 <br>
@@ -90,7 +90,7 @@ The weather icons should change depending on the weather condition returned by t
  
  ### Custom ImageView:
  
-<img src="https://raw.githubusercontent.com/ajetty/Images/master/BearLayers.gif"><p>A drawable layer containing the vector xml files of Buddy's images that make up the whole was created in custom ImageView and the widget itself was given this drawable layer as it's foreground drawable source.</p>
+<img src="https://ajetty.github.io/Weather_Buddy_Readme_Pics/BearLayers.gif"><p>A drawable layer containing the vector xml files of Buddy's images that make up the whole was created in custom ImageView and the widget itself was given this drawable layer as it's foreground drawable source.</p>
 
 <p>Because custom ImageView is extended from ImageView, it can be used in a layout file. It is a widget.</p>
 <p>Custom ImageView also has an instance of an array map and methods to call on this array map when an observed variable from ViewModel is changed.</p>
@@ -116,14 +116,14 @@ The weather icons should change depending on the weather condition returned by t
  * Have API update the weather conditions
  
 The settings can be accessed by clicking on the top settings icon located at the top left hand side of the screen.
-<img src="https://raw.githubusercontent.com/MargaritaNuridj/MargaritaNuridj.github.io/master/images/icons8-settings-64.png">
+<img src="https://ajetty.github.io/Weather_Buddy_Readme_Pics/icons8-settings-64.png">
 
 The settings page is responisble for changing the location used in the app. 
 
 <div>
-<img src="https://github.com/bhern154/bhern154.github.io/blob/master/settings_one.png" width="30%" style="float: left">
-<img src="https://github.com/bhern154/bhern154.github.io/blob/master/settings_two.png" width="30%" style="float: left">
-<img src="https://github.com/bhern154/bhern154.github.io/blob/master/settings_three.png" width="30%" style="float: left">
+<img src="https://ajetty.github.io/Weather_Buddy_Readme_Pics/settings_one.png" width="30%" style="float: left">
+<img src="https://ajetty.github.io/Weather_Buddy_Readme_Pics/settings_two.png" width="30%" style="float: left">
+<img src="https://ajetty.github.io/Weather_Buddy_Readme_Pics/settings_three.png" width="30%" style="float: left">
 </div>
 
 If a location is valid it will change the location on the homepage. 
